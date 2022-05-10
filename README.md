@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shankarpriyank&label=Profile%20views&color=0e75b6&style=flat" alt="shankarpriyank" /> </p>
 
-- 🔭 I’m currently working at Slash**
+- 🔭 I’m currently working at **Slash**
 
 - 🌱 I’m currently learning **Android Development, Jetpack Compose , Dependency Injection, Backend Development**
 
