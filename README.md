@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shankarpriyank&label=Profile%20views&color=0e75b6&style=flat" alt="shankarpriyank" /> </p>
 
-- 🔭 I’m currently working at Slash !!!
+- 🔭 I’m currently working at Slash**
 
 - 🌱 I’m currently learning **Android Development, Jetpack Compose , Dependency Injection, Backend Development**
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **shankarpriyank@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1QQfILbdLB6JuFBORnIJB3CTqrllRPV5k/view?usp=sharing](https://drive.google.com/file/d/1QQfILbdLB6JuFBORnIJB3CTqrllRPV5k/view?usp=sharing)
+- 📄 Know about my experiences [Click Me](https://drive.google.com/file/d/1bH97uU2xxkdBRv7WtUihmrOQhJZXiVcj/view?usp=sharing)
 
 
 <h3 align="left">Languages and Tools:</h3>
