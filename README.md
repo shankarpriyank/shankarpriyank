@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shankarpriyank&label=Profile%20views&color=0e75b6&style=flat" alt="shankarpriyank" /> </p>
 
-- 🔭 I’m currently contributing to **Organic Maps** as a **Google Summer Of Code 2022** student
+- 🔭 I’m currently getting my hands dirty in tech
 
 - 🌱 I’m currently learning **Android Development, Jetpack Compose , Dependency Injection, Backend Development**
 
