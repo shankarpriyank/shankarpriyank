@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Android Development, Jetpack Compose , Dependency Injection, Backend Development**
 
-- 👯 I’m looking to collaborate on **all sorts of intresting ideas**
+- 👯 I’m looking to collaborate on **all sorts of interesting ideas**
 
 - 👨‍💻 All of my projects are available at [github.com/shankarpriyank](github.com/shankarpriyank)
 
