@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently getting my hands dirty in tech
 
-- 🌱 I’m currently learning **Android Development, Jetpack Compose , Dependency Injection, Backend Development**
+- 🌱 I’m currently learning **Android Development, Jetpack Compose , GoLang, Backend Development**
 
 - 👯 I’m looking to collaborate on **all sorts of interesting ideas**
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **shankarpriyank@gmail.com**
 
-- 📄 Know about my experiences [Click Me](https://drive.google.com/file/d/1IM7bYzjbsBgPRXnICfLYKgh3cK9vnv8u/view?usp=sharing)
+- 📄 Know about my experiences [Click Me](https://drive.google.com/file/d/1gxvcpRoouNG57LZOqV5jFjmll_IKlwl7/view?usp=sharing)
 
 
 <h3 align="left">Languages and Tools:</h3>
