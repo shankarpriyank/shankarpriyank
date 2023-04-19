@@ -25,6 +25,8 @@ I love to [speak](https://www.youtube.com/playlist?list=PLO1T_D7d5Vy8F7LS9p8w9X6
 - **Databases**: Firebase, MySQL, Mongo, RoomDb
 - **Tools**: Git, Postman, Figma
 
+<!--RECENT_ACTIVITY:start-->
+
   
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/priyank31"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="priyank31" /></a></p><br><br>
