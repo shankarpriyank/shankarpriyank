@@ -1,21 +1,30 @@
-<h1 align="center">Hi 👋, I'm Priyank Shankar</h1>
-<h3 align="center">A passionate android developer currently pursuing B.Tech and residing in India, I love learning something new and evolving myself everyday</h3>
+# Hi, I'm Priyank Shankar 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shankarpriyank&label=Profile%20views&color=0e75b6&style=flat" alt="shankarpriyank" /> </p>
+###  About me:
+Hey! I'm Priyank, a third-year CS student from India, a software developer who loves to build products which make this world a better place to live.
+I usually like to work around **Android development**, **Backend development**, and I right now am also getting my hands dirty in **Blockchain** .
 
-- 🔭 I’m currently getting my hands dirty in tech
+I contributed to Organic Maps in **Google Summer of Code 2022**, you can see my project [here](https://summerofcode.withgoogle.com/archive/2022/projects/51VM0qGG)
+I have also worked as an Android Developer Intern at a bunch of startup, more deatils can be found in my [resume](https://drive.google.com/file/d/1DlZ7ASVB2bUs4wTOIzImeXHosKFTak8C/view?usp=sharing)
 
-- 🌱 I’m currently learning **Android Development, Jetpack Compose , GoLang, Backend Development**
+I am constantly learning new things and I enjoy sharing what I have learned with others.
 
-- 👯 I’m looking to collaborate on **all sorts of interesting ideas**
+I love to [speak](https://www.youtube.com/playlist?list=PLO1T_D7d5Vy8F7LS9p8w9X6o5wkt0lN_T) and have conducted a few sessions to encourage and mentor students toward **programming**, **open source**, and **Android Development**.
 
-- 👨‍💻 All of my projects are available at [github.com/shankarpriyank](github.com/shankarpriyank)
+### Important Links:
 
-- 📫 How to reach me **shankarpriyank@gmail.com**
+- Projects: [github.com/shankarpriyank?tab=repositories](https://github.com/shankarpriyank?tab=repositories)
+- Resume: [pdf](https://drive.google.com/file/d/1DlZ7ASVB2bUs4wTOIzImeXHosKFTak8C/view?usp=sharing)
+- LinkdIn: [linkedin.com/in/shankarpriyank](https://www.linkedin.com/in/shankarpriyank)
 
-- 📄 Know about my experiences [Click Me](https://drive.google.com/file/d/1gxvcpRoouNG57LZOqV5jFjmll_IKlwl7/view?usp=sharing)
+### Skills:
 
+- **Mobile**: Android(Java & Kotlin)
+- **Web**: GoLang, Next.js, React.js, HTML, CSS, JS
+- **Languages**: Kotlin, Java, Go, JavaScript, Python, C/C++
+- **Databases**: Firebase, MySQL, Mongo, RoomDb
+- **Tools**: Git, Postman, Figma
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shankarpriyank&" alt="shankarpriyank" /></p>
+  
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/priyank31"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="priyank31" /></a></p><br><br>
