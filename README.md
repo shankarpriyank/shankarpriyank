@@ -1,11 +1,11 @@
 # Hi, I'm Priyank Shankar 👋
 
 ###  About me:
-Hey! I'm Priyank, a third-year CS student from India, a software developer who loves to build products which make this world a better place to live.
+Hey! I'm Priyank, a third-year CS student from India, a software developer who loves to build products that make this world a better place to live.
 I usually like to work around **Android development**, **Backend development**, and I right now am also getting my hands dirty in **Blockchain** .
 
 I contributed to Organic Maps in **Google Summer of Code 2022**, you can see my project [here](https://summerofcode.withgoogle.com/archive/2022/projects/51VM0qGG)
-I have also worked as an Android Developer Intern at a bunch of startup, more deatils can be found in my [resume](https://drive.google.com/file/d/1DlZ7ASVB2bUs4wTOIzImeXHosKFTak8C/view?usp=sharing)
+I have also worked as an Android Developer Intern at a bunch of startups, more deatils can be found in my [resume](https://drive.google.com/file/d/1DlZ7ASVB2bUs4wTOIzImeXHosKFTak8C/view?usp=sharing)
 
 I am constantly learning new things and I enjoy sharing what I have learned with others.
 
