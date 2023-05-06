@@ -26,9 +26,9 @@ I love to [speak](https://www.youtube.com/playlist?list=PLO1T_D7d5Vy8F7LS9p8w9X6
 - **Tools**: Git, Postman, Figma
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [shankarpriyank/Calorie-Tracker](https://github.com/shankarpriyank/Calorie-Tracker)<br>
-2. ⬆️ Pushed 2 commit(s) to [shankarpriyank/Calorie-Tracker](https://github.com/shankarpriyank/Calorie-Tracker)<br>
-3. ⬆️ Pushed 1 commit(s) to [shankarpriyank/Calorie-Tracker](https://github.com/shankarpriyank/Calorie-Tracker)<br>
+1. ⬆️ Pushed 2 commit(s) to [shankarpriyank/Calorie-Tracker](https://github.com/shankarpriyank/Calorie-Tracker)<br>
+2. ⬆️ Pushed 1 commit(s) to [shankarpriyank/Calorie-Tracker](https://github.com/shankarpriyank/Calorie-Tracker)<br>
+3. ⬆️ Pushed 2 commit(s) to [shankarpriyank/Calorie-Tracker](https://github.com/shankarpriyank/Calorie-Tracker)<br>
 4. ⬆️ Pushed 1 commit(s) to [shankarpriyank/Calorie-Tracker](https://github.com/shankarpriyank/Calorie-Tracker)<br>
 5. ⬆️ Pushed 1 commit(s) to [shankarpriyank/Calorie-Tracker](https://github.com/shankarpriyank/Calorie-Tracker)<br>
 <!--RECENT_ACTIVITY:end-->
