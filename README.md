@@ -27,10 +27,10 @@ I love to [speak](https://www.youtube.com/playlist?list=PLO1T_D7d5Vy8F7LS9p8w9X6
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [shankarpriyank/Circulate](https://github.com/shankarpriyank/Circulate)<br>
-2. ⬆️ Pushed 2 commit(s) to [shankarpriyank/Circulate](https://github.com/shankarpriyank/Circulate)<br>
-3. 🤝 Became collaborator on [shankarpriyank/Levitate](https://github.com/shankarpriyank/Levitate)<br>
-4. ⬆️ Pushed 1 commit(s) to [shankarpriyank/Levitate](https://github.com/shankarpriyank/Levitate)<br>
-5. ⬆️ Pushed 2 commit(s) to [shankarpriyank/Calorie-Tracker](https://github.com/shankarpriyank/Calorie-Tracker)<br>
+2. ⬆️ Pushed 1 commit(s) to [shankarpriyank/Circulate](https://github.com/shankarpriyank/Circulate)<br>
+3. ⬆️ Pushed 2 commit(s) to [shankarpriyank/Circulate](https://github.com/shankarpriyank/Circulate)<br>
+4. 🤝 Became collaborator on [shankarpriyank/Levitate](https://github.com/shankarpriyank/Levitate)<br>
+5. ⬆️ Pushed 1 commit(s) to [shankarpriyank/Levitate](https://github.com/shankarpriyank/Levitate)<br>
 <!--RECENT_ACTIVITY:end-->
 
   
