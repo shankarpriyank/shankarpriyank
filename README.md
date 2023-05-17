@@ -27,10 +27,10 @@ I love to [speak](https://www.youtube.com/playlist?list=PLO1T_D7d5Vy8F7LS9p8w9X6
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [shankarpriyank/DogGenerate](https://github.com/shankarpriyank/DogGenerate)<br>
-2. 📔 Created new repository [shankarpriyank/DogGenerate](https://github.com/shankarpriyank/DogGenerate)<br>
-3. ⬆️ Pushed 1 commit(s) to [shankarpriyank/Circulate](https://github.com/shankarpriyank/Circulate)<br>
-4. ⬆️ Pushed 1 commit(s) to [shankarpriyank/Circulate](https://github.com/shankarpriyank/Circulate)<br>
-5. ⬆️ Pushed 2 commit(s) to [shankarpriyank/Circulate](https://github.com/shankarpriyank/Circulate)<br>
+2. ⬆️ Pushed 1 commit(s) to [shankarpriyank/DogGenerate](https://github.com/shankarpriyank/DogGenerate)<br>
+3. ⬆️ Pushed 1 commit(s) to [shankarpriyank/DogGenerate](https://github.com/shankarpriyank/DogGenerate)<br>
+4. 📔 Created new repository [shankarpriyank/DogGenerate](https://github.com/shankarpriyank/DogGenerate)<br>
+5. ⬆️ Pushed 1 commit(s) to [shankarpriyank/Circulate](https://github.com/shankarpriyank/Circulate)<br>
 <!--RECENT_ACTIVITY:end-->
 
   
