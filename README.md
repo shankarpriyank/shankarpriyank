@@ -35,6 +35,6 @@ Right now I am working as an **Android Devloper Intern** at **Jar**
 5. 💪 Opened PR [#1](https://github.com/shankarpriyank/Levitate/pull/1) in [shankarpriyank/Levitate](https://github.com/shankarpriyank/Levitate)<br>
 <!--RECENT_ACTIVITY:end-->
 
-  
+<!--   
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/priyank31"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="priyank31" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/priyank31"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="priyank31" /></a></p><br><br> -->
