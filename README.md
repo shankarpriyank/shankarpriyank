@@ -26,11 +26,11 @@ I love to [speak](https://www.youtube.com/playlist?list=PLO1T_D7d5Vy8F7LS9p8w9X6
 - **Tools**: Git, Postman, Figma
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [prashant2-4-4/boolean_classifier_for_c4gt](https://github.com/prashant2-4-4/boolean_classifier_for_c4gt)<br>
-2. ⬆️ Pushed 1 commit(s) to [shankarpriyank/Levitate](https://github.com/shankarpriyank/Levitate)<br>
-3. 💪 Opened PR [#1](https://github.com/shankarpriyank/Levitate/pull/1) in [shankarpriyank/Levitate](https://github.com/shankarpriyank/Levitate)<br>
-4. ⬆️ Pushed 1 commit(s) to [shankarpriyank/DogGenerate](https://github.com/shankarpriyank/DogGenerate)<br>
-5. ⬆️ Pushed 1 commit(s) to [shankarpriyank/DogGenerate](https://github.com/shankarpriyank/DogGenerate)<br>
+1. ⬆️ Pushed 10 commit(s) to [shankarpriyank/apps-android-commons](https://github.com/shankarpriyank/apps-android-commons)<br>
+2. ⬆️ Pushed 10 commit(s) to [shankarpriyank/apps-android-commons](https://github.com/shankarpriyank/apps-android-commons)<br>
+3. ⭐ Starred [prashant2-4-4/boolean_classifier_for_c4gt](https://github.com/prashant2-4-4/boolean_classifier_for_c4gt)<br>
+4. ⬆️ Pushed 1 commit(s) to [shankarpriyank/Levitate](https://github.com/shankarpriyank/Levitate)<br>
+5. 💪 Opened PR [#1](https://github.com/shankarpriyank/Levitate/pull/1) in [shankarpriyank/Levitate](https://github.com/shankarpriyank/Levitate)<br>
 <!--RECENT_ACTIVITY:end-->
 
   
