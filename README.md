@@ -11,6 +11,8 @@ I am constantly learning new things and I enjoy sharing what I have learned with
 
 I love to [speak](https://www.youtube.com/playlist?list=PLO1T_D7d5Vy8F7LS9p8w9X6o5wkt0lN_T) and have conducted a few sessions to encourage and mentor students toward **programming**, **open source**, and **Android Development**.
 
+Right now I am working as an **Android Devloper Intern** at **Jar**
+
 ### Important Links:
 
 - Projects: [github.com/shankarpriyank?tab=repositories](https://github.com/shankarpriyank?tab=repositories)
