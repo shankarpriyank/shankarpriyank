@@ -28,11 +28,11 @@ Right now I am working as an **Android Devloper Intern** at **Jar**
 - **Tools**: Git, Postman, Figma
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [shankarpriyank/shankarpriyank](https://github.com/shankarpriyank/shankarpriyank)<br>
+1. ⬆️ Pushed 24 commit(s) to [shankarpriyank/apps-android-commons](https://github.com/shankarpriyank/apps-android-commons)<br>
 2. ⬆️ Pushed 1 commit(s) to [shankarpriyank/shankarpriyank](https://github.com/shankarpriyank/shankarpriyank)<br>
-3. ⬆️ Pushed 10 commit(s) to [shankarpriyank/apps-android-commons](https://github.com/shankarpriyank/apps-android-commons)<br>
+3. ⬆️ Pushed 1 commit(s) to [shankarpriyank/shankarpriyank](https://github.com/shankarpriyank/shankarpriyank)<br>
 4. ⬆️ Pushed 10 commit(s) to [shankarpriyank/apps-android-commons](https://github.com/shankarpriyank/apps-android-commons)<br>
-5. ⭐ Starred [prashant2-4-4/boolean_classifier_for_c4gt](https://github.com/prashant2-4-4/boolean_classifier_for_c4gt)<br>
+5. ⬆️ Pushed 10 commit(s) to [shankarpriyank/apps-android-commons](https://github.com/shankarpriyank/apps-android-commons)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--   
