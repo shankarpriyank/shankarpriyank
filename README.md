@@ -16,7 +16,7 @@ Right now I am working as an **Android Devloper Intern** at **Jar**
 ### Important Links:
 
 - Projects: [github.com/shankarpriyank?tab=repositories](https://github.com/shankarpriyank?tab=repositories)
-- Resume: [pdf](https://drive.google.com/file/d/1DlZ7ASVB2bUs4wTOIzImeXHosKFTak8C/view?usp=sharing)
+- Resume: [pdf](https://drive.google.com/file/d/1bgJAEZpbHEP0m6m0-O1a6tdXnF2bWL6u/view?usp=sharing)
 - LinkdIn: [linkedin.com/in/shankarpriyank](https://www.linkedin.com/in/shankarpriyank)
 
 ### Skills:
