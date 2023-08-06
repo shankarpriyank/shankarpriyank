@@ -28,11 +28,11 @@ Right now I am looking for new opportunities while making personal projects and 
 - **Tools**: Git, Postman, Figma
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [shankarpriyank/Calorie-Tracker](https://github.com/shankarpriyank/Calorie-Tracker)<br>
+1. ⬆️ Pushed 1 commit(s) to [shankarpriyank/shankarpriyank](https://github.com/shankarpriyank/shankarpriyank)<br>
 2. ⬆️ Pushed 1 commit(s) to [shankarpriyank/shankarpriyank](https://github.com/shankarpriyank/shankarpriyank)<br>
-3. 📔 Created new repository [shankarpriyank/SensorsInKMM](https://github.com/shankarpriyank/SensorsInKMM)<br>
-4. ⬆️ Pushed 1 commit(s) to [shankarpriyank/NASA_Image_App](https://github.com/shankarpriyank/NASA_Image_App)<br>
-5. ⬆️ Pushed 1 commit(s) to [shankarpriyank/NASA_Image_App](https://github.com/shankarpriyank/NASA_Image_App)<br>
+3. ⬆️ Pushed 1 commit(s) to [shankarpriyank/Calorie-Tracker](https://github.com/shankarpriyank/Calorie-Tracker)<br>
+4. ⬆️ Pushed 1 commit(s) to [shankarpriyank/shankarpriyank](https://github.com/shankarpriyank/shankarpriyank)<br>
+5. 📔 Created new repository [shankarpriyank/SensorsInKMM](https://github.com/shankarpriyank/SensorsInKMM)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--   
