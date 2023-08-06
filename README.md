@@ -4,14 +4,14 @@
 Hey! I'm Priyank, a third-year CS student from India, a software developer who loves to build products that make this world a better place to live.
 I usually like to work around **Android development**, **Backend development**, and I right now am also getting my hands dirty in **Blockchain** .
 
-I contributed to Organic Maps in **Google Summer of Code 2022**, you can see my project [here](https://summerofcode.withgoogle.com/archive/2022/projects/51VM0qGG)
+This summer I worked as an Android Dev Intern at Jar. I also contributed to Organic Maps in **Google Summer of Code 2022**, you can see my project [here](https://summerofcode.withgoogle.com/archive/2022/projects/51VM0qGG)
 I have also worked as an Android Developer Intern at a bunch of startups, more deatils can be found in my [resume](https://drive.google.com/file/d/1DlZ7ASVB2bUs4wTOIzImeXHosKFTak8C/view?usp=sharing)
 
 I am constantly learning new things and I enjoy sharing what I have learned with others.
 
 I love to [speak](https://www.youtube.com/playlist?list=PLO1T_D7d5Vy8F7LS9p8w9X6o5wkt0lN_T) and have conducted a few sessions to encourage and mentor students toward **programming**, **open source**, and **Android Development**.
 
-Right now I am working as an **Android Devloper Intern** at **Jar**
+Right now I am looking for new opportunities while making personal projects and diving all into **Kotlin Multiplatform**
 
 ### Important Links:
 
