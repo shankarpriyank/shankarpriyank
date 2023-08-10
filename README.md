@@ -16,7 +16,7 @@ Right now I am looking for new opportunities while making personal projects and 
 ### Important Links:
 
 - Projects: [github.com/shankarpriyank?tab=repositories](https://github.com/shankarpriyank?tab=repositories)
-- Resume: [pdf](https://drive.google.com/file/d/1bgJAEZpbHEP0m6m0-O1a6tdXnF2bWL6u/view?usp=sharing)
+- Resume: [pdf](https://drive.google.com/file/d/1dg98QPshuoKTahdQVMfYD1GOS3FBqdGB/view?usp=drive_link)
 - LinkdIn: [linkedin.com/in/shankarpriyank](https://www.linkedin.com/in/shankarpriyank)
 
 ### Skills:
