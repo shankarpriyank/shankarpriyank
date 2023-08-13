@@ -28,11 +28,11 @@ Right now I am looking for new opportunities while making personal projects and 
 - **Tools**: Git, Postman, Figma
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [shankarpriyank/apps-android-commons](https://github.com/shankarpriyank/apps-android-commons)<br>
-2. 💪 Opened PR [#5269](https://github.com/commons-app/apps-android-commons/pull/5269) in [commons-app/apps-android-commons](https://github.com/commons-app/apps-android-commons)<br>
-3. ⬆️ Pushed 1 commit(s) to [shankarpriyank/apps-android-commons](https://github.com/shankarpriyank/apps-android-commons)<br>
-4. ⬆️ Pushed 1 commit(s) to [shankarpriyank/apps-android-commons](https://github.com/shankarpriyank/apps-android-commons)<br>
-5. 📔 Created new repository [shankarpriyank/Translator_KMM](https://github.com/shankarpriyank/Translator_KMM)<br>
+1. ⬆️ Pushed 6 commit(s) to [shankarpriyank/Levitate](https://github.com/shankarpriyank/Levitate)<br>
+2. 🎉 Merged PR [#1](https://github.com/shankarpriyank/Levitate/pull/1) in [shankarpriyank/Levitate](https://github.com/shankarpriyank/Levitate)<br>
+3. ⬆️ Pushed 3 commit(s) to [shankarpriyank/Levitate](https://github.com/shankarpriyank/Levitate)<br>
+4. ⬆️ Pushed 1 commit(s) to [shankarpriyank/Levitate](https://github.com/shankarpriyank/Levitate)<br>
+5. ⬆️ Pushed 2 commit(s) to [shankarpriyank/Levitate](https://github.com/shankarpriyank/Levitate)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--   
