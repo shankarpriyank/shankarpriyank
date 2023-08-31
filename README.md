@@ -29,9 +29,9 @@ Right now I am looking for new opportunities while making personal projects and 
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [shankarpriyank/Levitate](https://github.com/shankarpriyank/Levitate)<br>
-2. 💪 Opened PR [#2](https://github.com/shankarpriyank/Levitate/pull/2) in [shankarpriyank/Levitate](https://github.com/shankarpriyank/Levitate)<br>
+2. 🎉 Merged PR [#2](https://github.com/shankarpriyank/Levitate/pull/2) in [shankarpriyank/Levitate](https://github.com/shankarpriyank/Levitate)<br>
 3. ⬆️ Pushed 1 commit(s) to [shankarpriyank/Levitate](https://github.com/shankarpriyank/Levitate)<br>
-4. ⬆️ Pushed 1 commit(s) to [shankarpriyank/Levitate](https://github.com/shankarpriyank/Levitate)<br>
+4. 💪 Opened PR [#2](https://github.com/shankarpriyank/Levitate/pull/2) in [shankarpriyank/Levitate](https://github.com/shankarpriyank/Levitate)<br>
 5. ⬆️ Pushed 1 commit(s) to [shankarpriyank/Levitate](https://github.com/shankarpriyank/Levitate)<br>
 <!--RECENT_ACTIVITY:end-->
 
