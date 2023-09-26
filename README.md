@@ -28,11 +28,11 @@ Right now I am looking for new opportunities while making personal projects and 
 - **Tools**: Git, Postman, Figma
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [shankarpriyank/Levitate](https://github.com/shankarpriyank/Levitate)<br>
+1. ⬆️ Pushed 40 commit(s) to [shankarpriyank/apps-android-commons](https://github.com/shankarpriyank/apps-android-commons)<br>
 2. ⬆️ Pushed 1 commit(s) to [shankarpriyank/Levitate](https://github.com/shankarpriyank/Levitate)<br>
 3. ⬆️ Pushed 1 commit(s) to [shankarpriyank/Levitate](https://github.com/shankarpriyank/Levitate)<br>
-4. 🎉 Merged PR [#2](https://github.com/shankarpriyank/Levitate/pull/2) in [shankarpriyank/Levitate](https://github.com/shankarpriyank/Levitate)<br>
-5. ⬆️ Pushed 1 commit(s) to [shankarpriyank/Levitate](https://github.com/shankarpriyank/Levitate)<br>
+4. ⬆️ Pushed 1 commit(s) to [shankarpriyank/Levitate](https://github.com/shankarpriyank/Levitate)<br>
+5. 🎉 Merged PR [#2](https://github.com/shankarpriyank/Levitate/pull/2) in [shankarpriyank/Levitate](https://github.com/shankarpriyank/Levitate)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--   
