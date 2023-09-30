@@ -29,10 +29,10 @@ Right now I am looking for new opportunities while making personal projects and 
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [shankarpriyank/MessagingApp](https://github.com/shankarpriyank/MessagingApp)<br>
-2. 💪 Opened PR [#1](https://github.com/shankarpriyank/MessagingApp/pull/1) in [shankarpriyank/MessagingApp](https://github.com/shankarpriyank/MessagingApp)<br>
+2. ⬆️ Pushed 1 commit(s) to [shankarpriyank/MessagingApp](https://github.com/shankarpriyank/MessagingApp)<br>
 3. ⬆️ Pushed 1 commit(s) to [shankarpriyank/MessagingApp](https://github.com/shankarpriyank/MessagingApp)<br>
 4. ⬆️ Pushed 1 commit(s) to [shankarpriyank/MessagingApp](https://github.com/shankarpriyank/MessagingApp)<br>
-5. ⬆️ Pushed 1 commit(s) to [shankarpriyank/MessagingApp](https://github.com/shankarpriyank/MessagingApp)<br>
+5. 💪 Opened PR [#1](https://github.com/shankarpriyank/MessagingApp/pull/1) in [shankarpriyank/MessagingApp](https://github.com/shankarpriyank/MessagingApp)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--   
