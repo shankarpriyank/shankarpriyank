@@ -28,11 +28,11 @@ Right now I am looking for new opportunities while making personal projects and 
 - **Tools**: Git, Postman, Figma
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [shankarpriyank/apps-android-commons](https://github.com/shankarpriyank/apps-android-commons)<br>
-2. ⬆️ Pushed 1 commit(s) to [shankarpriyank/MessagingApp](https://github.com/shankarpriyank/MessagingApp)<br>
-3. ⬆️ Pushed 4 commit(s) to [shankarpriyank/MessagingApp](https://github.com/shankarpriyank/MessagingApp)<br>
+1. ⬆️ Pushed 10 commit(s) to [shankarpriyank/apps-android-commons](https://github.com/shankarpriyank/apps-android-commons)<br>
+2. ⬆️ Pushed 28 commit(s) to [shankarpriyank/apps-android-commons](https://github.com/shankarpriyank/apps-android-commons)<br>
+3. ⬆️ Pushed 1 commit(s) to [shankarpriyank/apps-android-commons](https://github.com/shankarpriyank/apps-android-commons)<br>
 4. ⬆️ Pushed 1 commit(s) to [shankarpriyank/MessagingApp](https://github.com/shankarpriyank/MessagingApp)<br>
-5. ⬆️ Pushed 1 commit(s) to [shankarpriyank/MessagingApp](https://github.com/shankarpriyank/MessagingApp)<br>
+5. ⬆️ Pushed 4 commit(s) to [shankarpriyank/MessagingApp](https://github.com/shankarpriyank/MessagingApp)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--   
