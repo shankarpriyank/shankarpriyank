@@ -28,11 +28,11 @@ Right now I am looking for new opportunities while making personal projects and 
 - **Tools**: Git, Postman, Figma
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 9 commit(s) to [shankarpriyank/apps-android-commons](https://github.com/shankarpriyank/apps-android-commons)<br>
-2. ⬆️ Pushed 1 commit(s) to [shankarpriyank/apps-android-commons](https://github.com/shankarpriyank/apps-android-commons)<br>
+1. ⬆️ Pushed 10 commit(s) to [shankarpriyank/apps-android-commons](https://github.com/shankarpriyank/apps-android-commons)<br>
+2. ⬆️ Pushed 9 commit(s) to [shankarpriyank/apps-android-commons](https://github.com/shankarpriyank/apps-android-commons)<br>
 3. ⬆️ Pushed 1 commit(s) to [shankarpriyank/apps-android-commons](https://github.com/shankarpriyank/apps-android-commons)<br>
 4. ⬆️ Pushed 1 commit(s) to [shankarpriyank/apps-android-commons](https://github.com/shankarpriyank/apps-android-commons)<br>
-5. ⭐ Starred [AdamMc331/PocketLeague](https://github.com/AdamMc331/PocketLeague)<br>
+5. ⬆️ Pushed 1 commit(s) to [shankarpriyank/apps-android-commons](https://github.com/shankarpriyank/apps-android-commons)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--   
