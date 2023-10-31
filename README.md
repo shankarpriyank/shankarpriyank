@@ -28,11 +28,11 @@ Right now I am looking for new opportunities while making personal projects and 
 - **Tools**: Git, Postman, Figma
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [jairajput/CryptoApp](https://github.com/jairajput/CryptoApp)<br>
-2. ⭐ Starred [jairajput/SprintSaga](https://github.com/jairajput/SprintSaga)<br>
-3. ⬆️ Pushed 7 commit(s) to [shankarpriyank/apps-android-commons](https://github.com/shankarpriyank/apps-android-commons)<br>
-4. ❗️ Opened issue [#5363](https://github.com/commons-app/apps-android-commons/issues/5363) in [commons-app/apps-android-commons](https://github.com/commons-app/apps-android-commons)<br>
-5. ⬆️ Pushed 175 commit(s) to [shankarpriyank/git](https://github.com/shankarpriyank/git)<br>
+1. 💪 Opened PR [#3](https://github.com/shankarpriyank/Levitate/pull/3) in [shankarpriyank/Levitate](https://github.com/shankarpriyank/Levitate)<br>
+2. ⭐ Starred [jairajput/CryptoApp](https://github.com/jairajput/CryptoApp)<br>
+3. ⭐ Starred [jairajput/SprintSaga](https://github.com/jairajput/SprintSaga)<br>
+4. ⬆️ Pushed 7 commit(s) to [shankarpriyank/apps-android-commons](https://github.com/shankarpriyank/apps-android-commons)<br>
+5. ❗️ Opened issue [#5363](https://github.com/commons-app/apps-android-commons/issues/5363) in [commons-app/apps-android-commons](https://github.com/commons-app/apps-android-commons)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--   
