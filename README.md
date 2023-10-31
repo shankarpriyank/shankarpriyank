@@ -30,9 +30,9 @@ Right now I am looking for new opportunities while making personal projects and 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [shankarpriyank/Levitate](https://github.com/shankarpriyank/Levitate)<br>
 2. ⬆️ Pushed 1 commit(s) to [shankarpriyank/Levitate](https://github.com/shankarpriyank/Levitate)<br>
-3. 💪 Opened PR [#3](https://github.com/shankarpriyank/Levitate/pull/3) in [shankarpriyank/Levitate](https://github.com/shankarpriyank/Levitate)<br>
-4. ⭐ Starred [jairajput/CryptoApp](https://github.com/jairajput/CryptoApp)<br>
-5. ⭐ Starred [jairajput/SprintSaga](https://github.com/jairajput/SprintSaga)<br>
+3. ⬆️ Pushed 1 commit(s) to [shankarpriyank/Levitate](https://github.com/shankarpriyank/Levitate)<br>
+4. ⬆️ Pushed 1 commit(s) to [shankarpriyank/Levitate](https://github.com/shankarpriyank/Levitate)<br>
+5. ⬆️ Pushed 1 commit(s) to [shankarpriyank/Levitate](https://github.com/shankarpriyank/Levitate)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--   
