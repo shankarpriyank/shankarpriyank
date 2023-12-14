@@ -28,11 +28,11 @@ Right now I am looking for new opportunities while making personal projects and 
 - **Tools**: Git, Postman, Figma
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 25 commit(s) to [shankarpriyank/apps-android-commons](https://github.com/shankarpriyank/apps-android-commons)<br>
-2. ⬆️ Pushed 30 commit(s) to [shankarpriyank/apps-android-commons](https://github.com/shankarpriyank/apps-android-commons)<br>
-3. ⬆️ Pushed 5 commit(s) to [shankarpriyank/apps-android-commons](https://github.com/shankarpriyank/apps-android-commons)<br>
-4. ⬆️ Pushed 1 commit(s) to [shankarpriyank/Levitate](https://github.com/shankarpriyank/Levitate)<br>
-5. ⬆️ Pushed 1 commit(s) to [shankarpriyank/Levitate](https://github.com/shankarpriyank/Levitate)<br>
+1. ⬆️ Pushed 1 commit(s) to [shankarpriyank/shankarpriyank](https://github.com/shankarpriyank/shankarpriyank)<br>
+2. ⬆️ Pushed 1 commit(s) to [shankarpriyank/shankarpriyank](https://github.com/shankarpriyank/shankarpriyank)<br>
+3. ⬆️ Pushed 25 commit(s) to [shankarpriyank/apps-android-commons](https://github.com/shankarpriyank/apps-android-commons)<br>
+4. ⬆️ Pushed 30 commit(s) to [shankarpriyank/apps-android-commons](https://github.com/shankarpriyank/apps-android-commons)<br>
+5. ⬆️ Pushed 5 commit(s) to [shankarpriyank/apps-android-commons](https://github.com/shankarpriyank/apps-android-commons)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--   
