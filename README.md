@@ -5,7 +5,7 @@ Hey! I'm Priyank, a final year CS student from India, a software developer who l
 I usually like to work around **Android development**, **Backend development**, and while constantly polishing my skills in Android, I have also started learning **Ios** development and I am also trying to get my hands dirty in **Blockchain** too.
 
 This summer I worked as an Android Dev Intern at **Jar**. I also contributed to Organic Maps in **Google Summer of Code 2022**, you can see my project [here](https://summerofcode.withgoogle.com/archive/2022/projects/51VM0qGG)
-I have also worked as an Android Developer Intern at a bunch of startups, more deatils can be found in my [resume](https://drive.google.com/file/d/1khZ13M8dEcF-wQ7GgrEVm7Dqa4ffMED7/view?usp=sharing)
+I have also worked as an Android Developer Intern at a bunch of startups, more deatils can be found in my [resume](https://drive.google.com/file/d/1jrBPthgvrwPA9D6t7CpLhu1JfwFXjZUw/view?usp=sharing)
 
 I am constantly learning new things and I enjoy sharing what I have learned with others.
 
@@ -16,7 +16,7 @@ Right now I am looking for new opportunities while making personal projects and 
 ### Important Links:
 
 - Projects: [github.com/shankarpriyank?tab=repositories](https://github.com/shankarpriyank?tab=repositories)
-- Resume: [pdf](https://drive.google.com/file/d/1khZ13M8dEcF-wQ7GgrEVm7Dqa4ffMED7/view?usp=sharing)
+- Resume: [pdf](https://drive.google.com/file/d/1jrBPthgvrwPA9D6t7CpLhu1JfwFXjZUw/view?usp=sharing)
 - LinkdIn: [linkedin.com/in/shankarpriyank](https://www.linkedin.com/in/shankarpriyank)
 
 ### Skills:
