@@ -4,7 +4,7 @@
 Hey! I'm Priyank, a final year CS student from India, a software developer who loves to build products that make this world a better place to live.
 I usually like to work around **Android development**, **Backend development**, and while constantly polishing my skills in Android, I have also started learning **Ios** development and I am also trying to get my hands dirty in **Blockchain** too.
 
-Last summer I worked as an Android Dev Intern at **Jar**. I also contributed to Organic Maps in **Google Summer of Code 2022**, you can see my project [here](https://summerofcode.withgoogle.com/archive/2022/projects/51VM0qGG)
+During the start of 2024 I interned at **Mecari** where I was working on our Android App. Last summer I worked as an Android Dev Intern at **Jar**. I also contributed to Organic Maps in **Google Summer of Code 2022**, you can see my project [here](https://summerofcode.withgoogle.com/archive/2022/projects/51VM0qGG)
 I have also worked as an Android Developer Intern at a bunch of startups, more deatils can be found in my [resume](https://drive.google.com/file/d/1jrBPthgvrwPA9D6t7CpLhu1JfwFXjZUw/view?usp=sharing)
 
 I am constantly learning new things and I enjoy sharing what I have learned with others.
