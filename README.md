@@ -28,11 +28,11 @@ Right now I am looking for new opportunities while making personal projects and 
 - **Tools**: Git, Postman, Figma
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [yatharthagoenka/BlueCloud](https://github.com/yatharthagoenka/BlueCloud)<br>
-2. ⬆️ Pushed 2 commit(s) to [shankarpriyank/apps-android-commons](https://github.com/shankarpriyank/apps-android-commons)<br>
-3. ⬆️ Pushed 6 commit(s) to [shankarpriyank/apps-android-commons](https://github.com/shankarpriyank/apps-android-commons)<br>
-4. 💪 Opened PR [#5430](https://github.com/commons-app/apps-android-commons/pull/5430) in [commons-app/apps-android-commons](https://github.com/commons-app/apps-android-commons)<br>
-5. ⬆️ Pushed 32 commit(s) to [shankarpriyank/apps-android-commons](https://github.com/shankarpriyank/apps-android-commons)<br>
+1. ⬆️ Pushed 1 commit(s) to [shankarpriyank/shankarpriyank](https://github.com/shankarpriyank/shankarpriyank)<br>
+2. ⬆️ Pushed 1 commit(s) to [shankarpriyank/Circulate-ios](https://github.com/shankarpriyank/Circulate-ios)<br>
+3. ⬆️ Pushed 1 commit(s) to [shankarpriyank/Circulate-ios](https://github.com/shankarpriyank/Circulate-ios)<br>
+4. 📔 Created new repository [shankarpriyank/Circulate-ios](https://github.com/shankarpriyank/Circulate-ios)<br>
+5. ⬆️ Pushed 1 commit(s) to [shankarpriyank/shankarpriyank](https://github.com/shankarpriyank/shankarpriyank)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--   
