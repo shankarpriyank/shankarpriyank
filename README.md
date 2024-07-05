@@ -29,10 +29,10 @@ Right now I am looking for new opportunities while making personal projects and 
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [shankarpriyank/shankarpriyank](https://github.com/shankarpriyank/shankarpriyank)<br>
-2. ⬆️ Pushed 1 commit(s) to [shankarpriyank/Circulate-ios](https://github.com/shankarpriyank/Circulate-ios)<br>
+2. ⬆️ Pushed 1 commit(s) to [shankarpriyank/shankarpriyank](https://github.com/shankarpriyank/shankarpriyank)<br>
 3. ⬆️ Pushed 1 commit(s) to [shankarpriyank/Circulate-ios](https://github.com/shankarpriyank/Circulate-ios)<br>
-4. 📔 Created new repository [shankarpriyank/Circulate-ios](https://github.com/shankarpriyank/Circulate-ios)<br>
-5. ⬆️ Pushed 1 commit(s) to [shankarpriyank/shankarpriyank](https://github.com/shankarpriyank/shankarpriyank)<br>
+4. ⬆️ Pushed 1 commit(s) to [shankarpriyank/Circulate-ios](https://github.com/shankarpriyank/Circulate-ios)<br>
+5. 📔 Created new repository [shankarpriyank/Circulate-ios](https://github.com/shankarpriyank/Circulate-ios)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--   
