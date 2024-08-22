@@ -30,9 +30,9 @@ Right now I am looking for new opportunities while making personal projects and 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [shankarpriyank/SharedAnalytics](https://github.com/shankarpriyank/SharedAnalytics)<br>
 2. ⬆️ Pushed 1 commit(s) to [shankarpriyank/SharedAnalytics](https://github.com/shankarpriyank/SharedAnalytics)<br>
-3. 📔 Created new repository [shankarpriyank/sharedtest](https://github.com/shankarpriyank/sharedtest)<br>
-4. ⬆️ Pushed 1 commit(s) to [shankarpriyank/SharedAnalytics](https://github.com/shankarpriyank/SharedAnalytics)<br>
-5. 📔 Created new repository [shankarpriyank/SharedAnalytics](https://github.com/shankarpriyank/SharedAnalytics)<br>
+3. ⬆️ Pushed 1 commit(s) to [shankarpriyank/SharedAnalytics](https://github.com/shankarpriyank/SharedAnalytics)<br>
+4. 📔 Created new repository [shankarpriyank/sharedtest](https://github.com/shankarpriyank/sharedtest)<br>
+5. ⬆️ Pushed 1 commit(s) to [shankarpriyank/SharedAnalytics](https://github.com/shankarpriyank/SharedAnalytics)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--   
