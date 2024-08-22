@@ -28,11 +28,11 @@ Right now I am looking for new opportunities while making personal projects and 
 - **Tools**: Git, Postman, Figma
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [shankarpriyank/tryKMMBridge](https://github.com/shankarpriyank/tryKMMBridge)<br>
-2. 📔 Created new repository [shankarpriyank/tryKMMBridge](https://github.com/shankarpriyank/tryKMMBridge)<br>
-3. ⬆️ Pushed 367 commit(s) to [shankarpriyank/apps-android-commons](https://github.com/shankarpriyank/apps-android-commons)<br>
-4. ⬆️ Pushed 1 commit(s) to [shankarpriyank/shankarpriyank](https://github.com/shankarpriyank/shankarpriyank)<br>
-5. ⬆️ Pushed 1 commit(s) to [shankarpriyank/shankarpriyank](https://github.com/shankarpriyank/shankarpriyank)<br>
+1. ⬆️ Pushed 1 commit(s) to [shankarpriyank/AnalyticsShared](https://github.com/shankarpriyank/AnalyticsShared)<br>
+2. ⬆️ Pushed 1 commit(s) to [shankarpriyank/AnalyticsShared](https://github.com/shankarpriyank/AnalyticsShared)<br>
+3. 📔 Created new repository [shankarpriyank/AnalyticsShared](https://github.com/shankarpriyank/AnalyticsShared)<br>
+4. ⬆️ Pushed 1 commit(s) to [shankarpriyank/tryKMMBridge](https://github.com/shankarpriyank/tryKMMBridge)<br>
+5. 📔 Created new repository [shankarpriyank/tryKMMBridge](https://github.com/shankarpriyank/tryKMMBridge)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--   
