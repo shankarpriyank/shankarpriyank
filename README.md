@@ -28,10 +28,10 @@ Right now I am looking for new opportunities while making personal projects and 
 - **Tools**: Git, Postman, Figma
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [shankarpriyank/AnalyticsKMP](https://github.com/shankarpriyank/AnalyticsKMP)<br>
-2. ⬆️ Pushed 1 commit(s) to [shankarpriyank/SharedAnalytics](https://github.com/shankarpriyank/SharedAnalytics)<br>
-3. ⬆️ Pushed 0 commit(s) to [shankarpriyank/SharedAnalytics](https://github.com/shankarpriyank/SharedAnalytics)<br>
-4. ⬆️ Pushed 1 commit(s) to [shankarpriyank/SharedAnalytics](https://github.com/shankarpriyank/SharedAnalytics)<br>
+1. ⬆️ Pushed 1 commit(s) to [shankarpriyank/AnalyticsKMP](https://github.com/shankarpriyank/AnalyticsKMP)<br>
+2. 📔 Created new repository [shankarpriyank/AnalyticsKMP](https://github.com/shankarpriyank/AnalyticsKMP)<br>
+3. ⬆️ Pushed 1 commit(s) to [shankarpriyank/SharedAnalytics](https://github.com/shankarpriyank/SharedAnalytics)<br>
+4. ⬆️ Pushed 0 commit(s) to [shankarpriyank/SharedAnalytics](https://github.com/shankarpriyank/SharedAnalytics)<br>
 5. ⬆️ Pushed 1 commit(s) to [shankarpriyank/SharedAnalytics](https://github.com/shankarpriyank/SharedAnalytics)<br>
 <!--RECENT_ACTIVITY:end-->
 
