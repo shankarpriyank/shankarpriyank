@@ -32,7 +32,7 @@ Right now I am looking for new opportunities while making personal projects and 
 2. ⬆️ Pushed 1 commit(s) to [shankarpriyank/SharedAnalytics](https://github.com/shankarpriyank/SharedAnalytics)<br>
 3. ⬆️ Pushed 1 commit(s) to [shankarpriyank/SharedAnalytics](https://github.com/shankarpriyank/SharedAnalytics)<br>
 4. ⬆️ Pushed 1 commit(s) to [shankarpriyank/SharedAnalytics](https://github.com/shankarpriyank/SharedAnalytics)<br>
-5. ⬆️ Pushed 1 commit(s) to [shankarpriyank/AnalyticsKMP](https://github.com/shankarpriyank/AnalyticsKMP)<br>
+5. ⬆️ Pushed 1 commit(s) to [shankarpriyank/SharedAnalytics](https://github.com/shankarpriyank/SharedAnalytics)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--   
