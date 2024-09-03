@@ -31,8 +31,8 @@ Right now I am looking for new opportunities while making personal projects and 
 1. ⬆️ Pushed 1 commit(s) to [shankarpriyank/SharedAnalytics](https://github.com/shankarpriyank/SharedAnalytics)<br>
 2. ⬆️ Pushed 1 commit(s) to [shankarpriyank/SharedAnalytics](https://github.com/shankarpriyank/SharedAnalytics)<br>
 3. ⬆️ Pushed 1 commit(s) to [shankarpriyank/SharedAnalytics](https://github.com/shankarpriyank/SharedAnalytics)<br>
-4. 🎉 Merged PR [#1](https://github.com/shankarpriyank/SharedAnalytics/pull/1) in [shankarpriyank/SharedAnalytics](https://github.com/shankarpriyank/SharedAnalytics)<br>
-5. 💪 Opened PR [#1](https://github.com/shankarpriyank/SharedAnalytics/pull/1) in [shankarpriyank/SharedAnalytics](https://github.com/shankarpriyank/SharedAnalytics)<br>
+4. ⬆️ Pushed 1 commit(s) to [shankarpriyank/SharedAnalytics](https://github.com/shankarpriyank/SharedAnalytics)<br>
+5. ⬆️ Pushed 1 commit(s) to [shankarpriyank/SharedAnalytics](https://github.com/shankarpriyank/SharedAnalytics)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--   
