@@ -12,7 +12,7 @@ I am always open to talk about interesting stuff and new opportunities
 - LinkdIn: [linkedin.com/in/shankarpriyank](https://www.linkedin.com/in/shankarpriyank)
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [shankarpriyank/SharedAnalytics](https://github.com/shankarpriyank/SharedAnalytics)<br>
+1. ⬆️ Pushed 1 commit(s) to [shankarpriyank/shankarpriyank](https://github.com/shankarpriyank/shankarpriyank)<br>
 2. ⬆️ Pushed 1 commit(s) to [shankarpriyank/SharedAnalytics](https://github.com/shankarpriyank/SharedAnalytics)<br>
 3. ⬆️ Pushed 1 commit(s) to [shankarpriyank/SharedAnalytics](https://github.com/shankarpriyank/SharedAnalytics)<br>
 4. ⬆️ Pushed 1 commit(s) to [shankarpriyank/SharedAnalytics](https://github.com/shankarpriyank/SharedAnalytics)<br>
